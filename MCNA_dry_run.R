@@ -68,10 +68,10 @@ source("source/sampling.R")
 # source("source/composite variables/12-impact.R")
 # source("source/composite variables/13-skip_logic.R")
 # source("source/composite variables/14-final.R")
-# response %>% saveRDS("input/data/02-data_final_scoring09102019.RDS")
+# response %>% saveRDS("input/data/02-data_final_scoring31102019.RDS")
 # response %>% write.csv("output/dataset_with_var.csv", row.names = F)
 ############################## END--  it takes 25 minutes to compute all variables, dont run this all the time
-response <- readRDS("input/data/02-data_final_scoring09102019.RDS")
+response <- readRDS("input/data/02-data_final_scoring31102019.RDS")
 
 #small typo correction
 response$vaccination_children[response$vaccination_children == "All"] <- "all"
@@ -94,7 +94,7 @@ source("source/look_up_table.R")
 # source("source/hno_table.R")
 # source("aap.R")
 
-analysisplan <- read.csv2("input/dap.csv", stringsAsFactors = F)
+analysisplan <- read.csv("input/dap_presentation_redss.csv", stringsAsFactors = F)
 
 strata_weight_fun <- map_to_weighting(sampling.frame = samplingframe,
                                       sampling.frame.population.column = "Population",

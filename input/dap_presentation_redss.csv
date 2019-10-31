@@ -1,0 +1,8 @@
+Indicator Group / Sector,research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type
+,,,statex7,population_group,categorical,length_of_displacement_score,categorical,group_difference
+,,,statex7,population_group,categorical,diff_current_aoo_months,numerical,group_difference
+,,,statex7,population_group,categorical,returnee_remain_here,categorical,group_difference
+,,,statex7,population_group,categorical,birth_where,categorical,group_difference
+,,,statex7,population_group,categorical,attend_total,numerical,group_difference
+,,,statex7,population_group,categorical,cash_education,categorical,group_difference
+,,,statex7,population_group,categorical,cash_health,categorical,group_difference

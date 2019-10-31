@@ -1,0 +1,100 @@
+region,district_ocha,idp_settlement,n,,,,,,dataset,idp_settlement,,sampling frame,,,,,,,,Row Labels,hc,idp,Grand Total
+awdal,Baki,no,147,,,,,region,district_ocha,no,yes,hc,idp,,,,,,,Afgooye,24753,3163,27916
+awdal,Borama,no,162,,,,,awdal,Baki,147,NA,17620,0,,,,,,,Afmadow,16432,1755,18187
+awdal,Borama,yes,76,,,,,awdal,Borama,162,76,241593,2998,,,,,,,baardheere,71520,690,72210
+awdal,Lughaye,no,128,,,,,awdal,Lughaye,128,82,36880,2711,,,,,,,Badhaadhe,8680,,8680
+awdal,Lughaye,yes,82,,,,,awdal,Zeylac,127,NA,19051,0,,,,,,,Badhan ,428,1979,2407
+awdal,Zeylac,no,127,,,,,bakool,Ceel Barde,95,84,13062,601,,,,,,,baidoa,137600,47873,185473
+bakool,Ceel Barde,no,95,,,,,bakool,Waajid,77,84,5205,1679,,,,,,,Baki,17620,,17620
+bakool,Ceel Barde,yes,84,,,,,bakool,Xudur,80,62,38768,166,,,,,,,Balcad,29562,,29562
+bakool,Waajid,no,77,,,,,banadir,Banadir,384,661,#N/A,#N/A,,,,,,,Bandarbayla,1535,,1535
+bakool,Waajid,yes,84,,,,,bari,Bandarbeyla,174,NA,1535,#N/A,,,,,,,Belet Xaawo,12891,1270,14161
+bakool,Xudur,no,80,,,,,bari,Bossaso,86,126,35751,10008,,,,,,,berbera,71070,1370,72440
+bakool,Xudur,yes,62,,,,,bari,Iskushuban,216,NA,9675,0,,,,,,,borama,241593,2998,244591
+banadir,Banadir,no,384,,,,,bari,Qardho,106,NA,11362,0,,,,,,,bossaso,35751,10008,45759
+banadir,Banadir,yes,661,,,,,bay,Baydhaba,84,99,137600,47873,,,,,,,burco,312664,13318,325982
+bari,Bandarbeyla,no,174,,,,,bay,Buur Hakaba,160,NA,15431,0,,,,,,,burtinle,4197,967,5164
+bari,Bossaso,no,86,,,,,galgaduud,Cabudwaaq,77,141,159552,3735,,,,,,,buuhoodle,15808,3440,19248
+bari,Bossaso,yes,126,,,,,galgaduud,Cadaado,83,112,40647,870,,,,,,,Buur Hakaba,15431,,15431
+bari,Iskushuban,no,216,,,,,galgaduud,Dhuusamarreeb,51,92,81863,1688,,,,,,,cabudwaaq,159552,3735,163287
+bari,Qardho,no,106,,,,,gedo,Baardheere,84,1,71520,690,,,,,,,cadaado,40647,870,41517
+bay,Baydhaba,no,84,,,,,gedo,Belet Xaawo,119,28,12891,1270,,,,,,,caynabo,27237,5736,32973
+bay,Baydhaba,yes,99,,,,,gedo,Ceel Waaq,77,32,18331,50,,,,,,,Ceel Afweyn,34446,2942,37388
+bay,Buur Hakaba,no,160,,,,,gedo,Doolow,77,69,21039,9884,,,,,,,Ceel Barde,13062,601,13663
+galgaduud,Cabudwaaq,no,77,,,,,gedo,Garbahaarey,55,60,21972,280,,,,,,,Ceel Waaq,18331,50,18381
+galgaduud,Cabudwaaq,yes,141,,,,,gedo,Luuq,91,23,19000,5497,,,,,,,ceerigaabo,14596,1877,16473
+galgaduud,Cadaado,no,83,,,,,hiraan,Belet Weyne,127,111,12866,7426,,,,,,,Daynile,46634.07332,,46634.07332
+galgaduud,Cadaado,yes,112,,,,,lower_juba,Afmadow,48,108,16432,1755,,,,,,,Dharkenley,39824.89803,,39824.89803
+galgaduud,Dhuusamarreeb,no,51,,,,,lower_juba,Badhaadhe,25,NA,8680,0,,,,,,,dhuusamarreeb,81863,1688,83551
+galgaduud,Dhuusamarreeb,yes,92,,,,,lower_juba,Banadir,NA,2,#N/A,#N/A,,,,,,,doolow,21039,9884,30923
+gedo,Baardheere,no,84,,,,,lower_juba,Kismaayo,59,101,#N/A,#N/A,,,,,,,Eyl,5858,,5858
+gedo,Baardheere,yes,1,,,,,lower_shabelle,Afgooye,114,110,24753,3163,,,,,,,gaalkacyo north,84759,17397,102156
+gedo,Belet Xaawo,no,119,,,,,lower_shabelle,Banadir,NA,4,#N/A,#N/A,,,,,,,gaalkacyo south,68045,10341,78386
+gedo,Belet Xaawo,yes,28,,,,,lower_shabelle,Buur Hakaba,1,NA,15431,0,,,,,,,galdogob,30041,1970,32011
+gedo,Ceel Waaq,no,77,,,,,lower_shabelle,Marka,61,NA,73212,0,,,,,,,garbahaarey,21972,280,22252
+gedo,Ceel Waaq,yes,32,,,,,lower_shabelle,Qoryooley,145,1,30084,0,,,,,,,garowe,13532,6518,20050
+gedo,Doolow,no,77,,,,,lower_shabelle,Wanla Weyn,144,83,8126,1350,,,,,,,gebiley,72464,1440,73904
+gedo,Doolow,yes,69,,,,,middle_shabelle,Balcad,85,NA,29562,0,,,,,,,hargeysa,639142,20170,659312
+gedo,Garbahaarey,no,55,,,,,middle_shabelle,Jowhar,101,109,195570,1686,,,,,,,hobyo,19304,267,19571
+gedo,Garbahaarey,yes,60,,,,,mudug,Gaalkacyo,158,208,#N/A,#N/A,,,,,,,Hodan,10859.05027,,10859.05027
+gedo,Luuq,no,91,,,,,mudug,Galdogob,77,77,30041,1970,,,,,,,Iskushuban,9675,,9675
+gedo,Luuq,yes,23,,,,,mudug,Hobyo,114,66,19304,267,,,,,,,Jariiban,7766,,7766
+hiraan,Belet Weyne,no,127,,,,,mudug,Jariiban,84,NA,7766,0,,,,,,,jowhar,195570,1686,197256
+hiraan,Belet Weyne,yes,111,,,,,nugaal,Burtinle,94,63,4197,967,,,,,,,Kahda,39326.48607,,39326.48607
+lower_juba,Afmadow,no,48,,,,,nugaal,Eyl,135,NA,5858,0,,,,,,,kismayo,38187,9843,48030
+lower_juba,Afmadow,yes,108,,,,,nugaal,Garoowe,92,137,#N/A,#N/A,,,,,,,Laas Caanood,75217,7542,82759
+lower_juba,Badhaadhe,no,25,,,,,sanaag,Ceel Afweyn,69,86,34446,2942,,,,,,,Laasqoray,45907,,45907
+lower_juba,Banadir,yes,2,,,,,sanaag,Ceerigaabo,174,48,14596,1877,,,,,,,lughaye,36880,2711,39591
+lower_juba,Kismaayo,no,59,,,,,sanaag,Laasqoray,188,95,45907,0,,,,,,,luuq,19000,5497,24497
+lower_juba,Kismaayo,yes,101,,,,,sool,Caynabo,139,79,27237,5736,,,,,,,Marka,73212,,73212
+lower_shabelle,Afgooye,no,114,,,,,sool,Laas Caanood,80,140,75217,7542,,,,,,,Mataban,6665,,6665
+lower_shabelle,Afgooye,yes,110,,,,,sool,Taleex,77,66,6767,670,,,,,,,owdweyne,34905,290,35195
+lower_shabelle,Banadir,yes,4,,,,,sool,Xudun,75,128,6712,2445,,,,,,,Qardho,11362,,11362
+lower_shabelle,Buur Hakaba,no,1,,,,,togdheer,Burco,133,77,312664,13318,,,,,,,Qoryooley,30084,,30084
+lower_shabelle,Marka,no,61,,,,,togdheer,Buuhoodle,65,112,15808,3440,,,,,,,Sheikh,30989,,30989
+lower_shabelle,Qoryooley,no,145,,,,,togdheer,Owdweyne,137,65,34905,290,,,,,,,taleex,6767,670,7437
+lower_shabelle,Qoryooley,yes,1,,,,,togdheer,Sheikh,130,NA,30989,0,,,,,,,Waajid,5205,1679,6884
+lower_shabelle,Wanla Weyn,no,144,,,,,woqooyi_galbeed,Berbera,78,76,71070,1370,,,,,,,Wanla Weyn,8126,1350,9476
+lower_shabelle,Wanla Weyn,yes,83,,,,,woqooyi_galbeed,Gebiley,121,69,72464,1440,,,,,,,xudun,6712,2445,9157
+middle_shabelle,Balcad,no,85,,,,,woqooyi_galbeed,Hargeysa,125,115,639142,20170,,,,,,,xudur,38768,166,38934
+middle_shabelle,Jowhar,no,101,,,,,,,,,,,,,,,,,zeylac,19051,,19051
+middle_shabelle,Jowhar,yes,109,,,,,,,,,,,,,,,,,Belet weyne,12866,7426,20292
+mudug,Gaalkacyo,no,158,,,,,,,,,,,,,,,,,mogadishu daynile,,69410.69468,69410.69468
+mudug,Gaalkacyo,yes,208,,,,,,,,,,,,,,,,,mogadishu dharkenley,,4365.479308,4365.479308
+mudug,Galdogob,no,77,,,,,,,,,,,,,,,,,mogadishu hodan,,7501.746506,7501.746506
+mudug,Galdogob,yes,77,,,,,,,,,,,,,,,,,mogadishu kahda,,49770.30095,49770.30095
+mudug,Hobyo,no,114,,,,,,,,,,,,,,,,,Mogadishu - other IDP,,4302.952911,4302.952911
+mudug,Hobyo,yes,66,,,,,,,,,,,,,,,,,Mogadishu - other HC,89780.14401,,89780.14401
+mudug,Jariiban,no,84,,,,,,,,,,,,,,,,,Mogadishu - protracted IDP,,5570.533492,5570.533492
+nugaal,Burtinle,no,94,,,,,,,,,,,,,,,,,Grand Total,3322763.652,356823.7078,3679587.36
+nugaal,Burtinle,yes,63,,,,,,,,,,,,,,,,,,,,
+nugaal,Eyl,no,135,,,,,,,,,,,,,,,,,,,,
+nugaal,Garoowe,no,92,,,,,,,,,,,,,,,,,,,,
+nugaal,Garoowe,yes,137,,,,,,,,,,,,,,,,,,,,
+sanaag,Ceel Afweyn,no,69,,,,,,,,,,,,,,,,,,,,
+sanaag,Ceel Afweyn,yes,86,,,,,,,,,,,,,,,,,,,,
+sanaag,Ceerigaabo,no,174,,,,,,,,,,,,,,,,,,,,
+sanaag,Ceerigaabo,yes,48,,,,,,,,,,,,,,,,,,,,
+sanaag,Laasqoray,no,188,,,,,,,,,,,,,,,,,,,,
+sanaag,Laasqoray,yes,95,,,,,,,,,,,,,,,,,,,,
+sool,Caynabo,no,139,,,,,,,,,,,,,,,,,,,,
+sool,Caynabo,yes,79,,,,,,,,,,,,,,,,,,,,
+sool,Laas Caanood,no,80,,,,,,,,,,,,,,,,,,,,
+sool,Laas Caanood,yes,140,,,,,,,,,,,,,,,,,,,,
+sool,Taleex,no,77,,,,,,,,,,,,,,,,,,,,
+sool,Taleex,yes,66,,,,,,,,,,,,,,,,,,,,
+sool,Xudun,no,75,,,,,,,,,,,,,,,,,,,,
+sool,Xudun,yes,128,,,,,,,,,,,,,,,,,,,,
+togdheer,Burco,no,133,,,,,,,,,,,,,,,,,,,,
+togdheer,Burco,yes,77,,,,,,,,,,,,,,,,,,,,
+togdheer,Buuhoodle,no,65,,,,,,,,,,,,,,,,,,,,
+togdheer,Buuhoodle,yes,112,,,,,,,,,,,,,,,,,,,,
+togdheer,Owdweyne,no,137,,,,,,,,,,,,,,,,,,,,
+togdheer,Owdweyne,yes,65,,,,,,,,,,,,,,,,,,,,
+togdheer,Sheikh,no,130,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Berbera,no,78,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Berbera,yes,76,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Gebiley,no,121,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Gebiley,yes,69,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Hargeysa,no,125,,,,,,,,,,,,,,,,,,,,
+woqooyi_galbeed,Hargeysa,yes,115,,,,,,,,,,,,,,,,,,,,

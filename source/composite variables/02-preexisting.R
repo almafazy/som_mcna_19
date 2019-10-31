@@ -148,11 +148,11 @@ response <-
   # 6.1 displacement (see horizontal aggregation.R for months convertion)
   new_recoding(target = length_of_displacement_score) %>%
   recode_to(to = 1, where.selected.exactly = "yes", source = yes_no_host) %>%
-  recode_to(to = 3, where = diff_current_aoo_months > 6 & diff_current_aoo_months <= 12) %>%
-  recode_to(to = 4, where = diff_current_aoo_months > 12 & diff_current_aoo_months <= 24) %>%
-  recode_to(to = 5, where = diff_current_aoo_months > 24 & diff_current_aoo_months <= 36) %>%
-  recode_to(to = 6, where = diff_current_aoo_months > 36 & diff_current_aoo_months <= 48) %>%
-  recode_to(to = 7, where = diff_current_aoo_months > 48) %>%
-  recode_to(to = 7, where = diff_current_aoo_months > 3 & diff_current_aoo_months <= 6) %>%
-  recode_to(to = 8, where = diff_current_aoo_months <= 3) %>%
+  recode_to(to = 3, where = diff_today_aoo_months > 6 & diff_today_aoo_months <= 12) %>%
+  recode_to(to = 4, where = diff_today_aoo_months > 12 & diff_today_aoo_months <= 24) %>%
+  recode_to(to = 5, where = diff_today_aoo_months > 24 & diff_today_aoo_months <= 36) %>%
+  recode_to(to = 6, where = diff_today_aoo_months > 36 & diff_today_aoo_months <= 48) %>%
+  recode_to(to = 7, where = diff_today_aoo_months > 48) %>%
+  recode_to(to = 7, where = diff_today_aoo_months > 3 & diff_today_aoo_months <= 6) %>%
+  recode_to(to = 8, where = diff_today_aoo_months <= 3) %>%
   end_recoding()

@@ -24,8 +24,8 @@ response_hc_idp <- response %>%
   dplyr::filter(strata %in% samplingframe$strata) %>%
   dplyr::filter(yes_no_host == "yes" | yes_no_idp == "yes") 
 # %>%
-#   filter(region == "bakool")
-# 
+#   filter(region == "hiraan")
+
 region_name <- ""
 
 weighting_function <- surveyweights::weighting_fun_from_samplingframe(sampling.frame = samplingframe,
